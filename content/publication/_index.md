@@ -1,5 +1,5 @@
 ---
-title:  Composite damage zones in the subsurface. Geophysical Journal International, 222: 225–230
+title:  Composite damage zones in the subsurface. Geophysical Journal International
 
 # View.
 #   1 = List
