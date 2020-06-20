@@ -18,27 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
+  title = "Associate Professor"
+  company = "China University of Petroleum, Beijing"
+  company_url = "www.cup.edu.cn"
+  location = "Beijing"
+  date_start = "2014-06-07"
+  date_end = "-present"
+  description = "Geomechanics, Geostructure, Geo-Exploration, Geo-Hazards"
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Undergraduate courses: Structure Geology 2014-2017, Seismic Interpretation (2016-2020), Interpretation Lab (2016-2020) 
+  * Research projects: Strategic Priority Research Program of the Chinese Academy of Sciences XDA14010306, National Natural Science Foundation of China no. U1663203 and no. 41604036
+  * Graduate students supervising
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research scientist"
+  company = "Oklahoma Geological Survey"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Norman, United States"
+  date_start = "2013-11-21"
+  date_end = "2014-6-01"
+  description = """Assited Director Dr. Randy Keller doing earthquake research."""
 
+[[experience]]
+  title = "Research assistant"
+  company = "University of Oklahoma"
+  company_url = "www.ou.edu"
+  location = "Norman, United States"
+  date_start = "2008-08-21"
+  date_end = "2013-11-21"
+  Civil Engineering, University of Oklahoma
+  Geology & Geophysics, University of Oklahoma
 +++
