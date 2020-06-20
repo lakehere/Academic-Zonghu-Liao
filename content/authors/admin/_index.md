@@ -71,7 +71,3 @@ user_groups:
 ---
 
 Zonghu Liao is an Associate Professor of Structure Geology at the China University of Petroleum, Beijing. His research interests include geostructures, geomechanics, georesources. He leads the G-cube group, which develops accumulation models for various petroleum basins in China, structure models for the Longmenshan Range, and early warning system for regional landslides. 
-
-廖宗湖，中国石油大学（北京）副教授。从事构造地质研究，通过高压断裂实验首次发现了地震断裂存在脉冲破裂模式，建立断-缝油气成藏模式，在Earth and Planetary Science Letters等著名地学期刊发表SCI论文20余篇，会议30余篇。任国际SCI期刊《Interpretation》客座副主编（2017,2019）、《石油科学通报》青年编委（2016-）、中国岩石力学与工程学会高温高压岩石力学专业委员会委员（2020-）、SEG/AAPG/AGU/EGU会员、福建省龙岩市留学联谊会理事（2009-）。
-
-
