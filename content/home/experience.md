@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "www.cup.edu.cn"
   location = "Beijing"
   date_start = "2014-06-07"
-  date_end = "-present"
+  date_end = ""
   description = "Geomechanics, Geostructure, Geo-Exploration, Geo-Hazards"
   Responsibilities include:
   
@@ -48,6 +48,6 @@ date_format = "Jan 2006"
   location = "Norman, United States"
   date_start = "2008-08-21"
   date_end = "2013-11-21"
-  Civil Engineering, University of Oklahoma
-  Geology & Geophysics, University of Oklahoma
+  # Civil Engineering, University of Oklahoma.
+  # Geology & Geophysics, University of Oklahoma.
 +++
