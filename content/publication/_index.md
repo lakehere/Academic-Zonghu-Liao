@@ -1,5 +1,5 @@
 ---
-title: Liao, Z.*, W. Li, H Zou, F. Hao, K. Marfurt, Z. Reches (2020), Composite damage zones in the subsurface. Geophysical Journal International, 222: 225–230
+title:  Composite damage zones in the subsurface. Geophysical Journal International, 222: 225–230
 
 # View.
 #   1 = List
