@@ -28,16 +28,16 @@ interests:
 education:
   courses:
   - course: PhD in Geology and Geophysics
-    institution: University of Oklahoma, Norman, Oklahoma
+    institution: University of Oklahoma, Norman, US
     year: 2013
   - course: MS in Geology
-    institution: University of Oklahoma, Norman, Oklahoma
+    institution: University of Oklahoma, Norman, US
     year: 2012
   - course: MS in Civil Engineering
-    institution: University of Oklahoma, Norman, Oklahoma
+    institution: University of Oklahoma, Norman, US
     year: 2010
   - course: BSc in Exploration Technology and Engineering
-    institution: Fuzhou University
+    institution: Fuzhou University, Fuzhou, CN
     year: 2008
 
 # Social/Academic Networking
