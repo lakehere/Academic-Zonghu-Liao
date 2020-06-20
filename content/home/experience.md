@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2014-06-07"
   date_end = ""
   description = "Geomechanics, Geostructure, Geo-Exploration, Geo-Hazards"
-  Responsibilities include:
+  """Responsibilities include:
   
   * Undergraduate courses: Structure Geology 2014-2017, Seismic Interpretation (2016-2020), Interpretation Lab (2016-2020) 
   * Research projects: Strategic Priority Research Program of the Chinese Academy of Sciences XDA14010306, National Natural Science Foundation of China no. U1663203 and no. 41604036
