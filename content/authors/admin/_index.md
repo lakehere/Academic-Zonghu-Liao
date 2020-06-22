@@ -63,8 +63,6 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "zonghuliao@163.com"
 
----
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
@@ -73,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Zonghu Liao is an Associate Professor of Structure Geology at the China University of Petroleum, Beijing. His research interests include geostructures, geomechanics, georesources. He leads the G-cube group, which develops accumulation models for various petroleum basins in China, structure models for the Longmenshan Range, and early warning system for regional landslides. 
+Zonghu Liao is an Associate Professor of Structure Geology at the China University of Petroleum, Beijing (CUPB). His research interests include geostructures, geomechanics, georesources. He leads the geostructure group in CUPB, which develops accumulation models for various petroleum basins in China, structure models for the Longmenshan Range, and early warning system for regional landslides. 
